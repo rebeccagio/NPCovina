@@ -1,2 +1,1 @@
-# NHFChurch
-This a website that I am working on for New Heart Foursquare Church.
+Website for a non-profit organization in Covina, CA.
