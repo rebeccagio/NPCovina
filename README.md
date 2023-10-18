@@ -1,1 +1,1 @@
-Website for a non-profit organization in Covina, CA using HTML, CSS
+Website for New Heart Foursquare Church in Covina, CA using HTML, CSS
