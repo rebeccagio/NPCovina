@@ -8,11 +8,11 @@ To get started, follow these steps:
 
 1. Clone this repository to your local machine:
 
-git clone https://github.com/your-username/NPCovina.git
+`git clone https://github.com/rebeccagio/NPCovina.git`
 
 2. Navigate to the project directory:
 
-cd NPCovina
+`cd NPCovina`
 
 3. Begin working on your project.
 
